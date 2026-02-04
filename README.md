@@ -1,10 +1,7 @@
-﻿
-```
 ## End-to-End MLOps System for Drift Monitoring
 
 ![Docker Compose](https://img.shields.io/badge/docker-compose-blue)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 A production-style MLOps pipeline focused on detecting data drift, retraining machine learning models, and tracking experiments using Airflow, FastAPI, Docker, and MLflow.
 

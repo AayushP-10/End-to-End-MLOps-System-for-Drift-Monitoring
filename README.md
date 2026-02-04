@@ -110,7 +110,7 @@ FastAPI serves the latest trained model.
 Accepts JSON input for real-time predictions.
 
 ---
-
+```
 ## Project Structure
 
 mlops-drift-project/
@@ -150,7 +150,7 @@ mlops-drift-project/
     ├── restart.ps1
     ├── rebuild.ps1
     └── reset_db.ps1
-
+```
 ---
 
 ## Installation
